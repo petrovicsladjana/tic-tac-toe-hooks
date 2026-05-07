@@ -33,4 +33,4 @@ Uporabljen je Conventional Commits format:
 <type>: <description>
 
 Primer:
-test: add minimax unit tests
+test: add minimax unit teststest 
