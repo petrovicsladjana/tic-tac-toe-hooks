@@ -36,5 +36,3 @@ Primer:
 
 ```text
 test: add minimax unit tests
-
-## Demonstarcija
